@@ -1,0 +1,8 @@
+{
+  "name": "AI Study Buddy (BSEB)",
+  "description": "A browser-based AI Study Partner for Bihar Board (BSEB) students. Features Hindi/English AI tutoring, NCERT support, study planning, note generation, and quizzes without app installation.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ]
+}
